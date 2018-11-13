@@ -1,0 +1,21 @@
+//META{"name":"Base","description":"~ theme~ Please use the support server listed below if you need any help.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+/* Open this file in Notepad++  User settings below. */
+
+@import url(https://hyoukakisara.github.io/andromedaaaa/);
+
+:root {
+	--light: rgba(0, 0, 0, .5); 		/* Overall brightness. 1= black, 0 = transparent */
+	--userlight:rgba(0, 0, 0, 0.5);		/* Brightness for the userpopouts */
+	--mc: hsla(199, 78%, 32%, 0.8);		/* Main colour. Larger items, backgrounds. */
+	--sc: hsla(263, 100%, 66%, 0.8);		/* Accent/Secondary colour. Notifications & such.  */
+	--bc: hsla(263, 100%, 66%, 0.8);		/* All borders/box shadows. You should match this to your mc or sc colour. */
+	--round: 50%;                          /* Overall Icon roundness */
+	--font: sans-serif;	
+	--font-size: 15px;
+	--text:  #eee; 						/* Text colour. */
+	--block: none;                        /* Show/Hide blocked msgs. Default - none */
+}
+.appMount-3VJmYg {background: url() center/cover no-repeat}
+.userPopout-3XzG_A {background: url() center/cover no-repeat}
+svg.homeIcon-1FoKUJ{background: url() no-repeat center/cover}
