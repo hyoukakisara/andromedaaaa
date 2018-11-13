@@ -1,0 +1,25 @@
+//META{"name":"Andromeda","description":"Andromeda #1~ Please use the support server listed below if you need any help.","author":"Satoru","version":"1.0","website":"http://nekopoi.care"}*//{}
+
+@import url(https://hyoukakisara.github.io/andromedaaaa/andromeda.theme.css);
+@import url(https://hyoukakisara.github.io/andromedaaaa/SmallerGuildIcons.css);
+@import url(https://hyoukakisara.github.io/andromedaaaa/MemberlistPopout.css);
+@import url(https://hyoukakisara.github.io/andromedaaaa/FriendsList.css);
+@import url(https://hyoukakisara.github.io/andromedaaaa/Titlebar.css);
+@import url(https://hyoukakisara.github.io/andromedaaaa/chatbubble1.css);
+
+:root {
+    --light: rgba(0, 0, 0, .5); 		/* Overall brightness. 1= black, 0 = transparent */
+    --userlight:rgba(0, 0, 0, 0.5);		/* Brightness for the userpopouts */
+	--mc: hsla(332, 78%, 32%, 0.8);		/* Main colour. Larger items, backgrounds. */
+	--sc: hsla(133, 100%, 66%, 0.8);	/* Accent/Secondary colour. Borders, notifications & such.  */
+	--bc: hsla(188, 100%, 66%, 0.8);		/* All borders/box shadows. You should match this to your mc or sc colour. */
+	--round: 50%;						/* Overall Icon roundness */
+	--font: sans-serif;	
+	--font-size: 15px;
+	--text:  #eee; 						/* Text colour. */
+	--block: none;						/* Show/Hide blocked msgs */
+	--size: 35px;							/* Guild Icon Size */
+}
+.appMount-3VJmYg {background: url(https://i.postimg.cc/G2vrSSH4/0.jpg) center/cover no-repeat}
+.userPopout-3XzG_A {background: url(https://media.giphy.com/media/RlEu9mZPASs8M/giphy.gif) center/cover no-repeat}
+svg.homeIcon-1FoKUJ{background: url(https://i.postimg.cc/yd1nwDN0/nekopoi-png-4.png) no-repeat center/cover}
